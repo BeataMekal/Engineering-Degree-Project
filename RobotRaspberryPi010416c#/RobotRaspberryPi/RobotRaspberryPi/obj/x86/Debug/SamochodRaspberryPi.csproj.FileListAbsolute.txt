@@ -1,0 +1,12 @@
+C:\Users\Beata\Documents\Visual Studio 2010\Projects\SamochodRaspberryPi\SamochodRaspberryPi\bin\Debug\SamochodRaspberryPi.exe
+C:\Users\Beata\Documents\Visual Studio 2010\Projects\SamochodRaspberryPi\SamochodRaspberryPi\bin\Debug\SamochodRaspberryPi.pdb
+C:\Users\Beata\Documents\Visual Studio 2010\Projects\SamochodRaspberryPi\SamochodRaspberryPi\obj\x86\Debug\SamochodRaspberryPi.csprojResolveAssemblyReference.cache
+C:\Users\Beata\Documents\Visual Studio 2010\Projects\SamochodRaspberryPi\SamochodRaspberryPi\obj\x86\Debug\SamochodRaspberryPi.Properties.Resources.resources
+C:\Users\Beata\Documents\Visual Studio 2010\Projects\SamochodRaspberryPi\SamochodRaspberryPi\obj\x86\Debug\SamochodRaspberryPi.csproj.GenerateResource.Cache
+C:\Users\Beata\Documents\Visual Studio 2010\Projects\SamochodRaspberryPi\SamochodRaspberryPi\obj\x86\Debug\SamochodRaspberryPi.exe
+C:\Users\Beata\Documents\Visual Studio 2010\Projects\SamochodRaspberryPi\SamochodRaspberryPi\obj\x86\Debug\SamochodRaspberryPi.pdb
+C:\Users\Beata\documents\visual studio 2010\Projects\SamochodRaspberryPi\SamochodRaspberryPi\obj\x86\Debug\SamochodRaspberryPi.Interfejs.Czujniki.resources
+C:\Users\Beata\documents\visual studio 2010\Projects\SamochodRaspberryPi\SamochodRaspberryPi\bin\Debug\MySql.Data.dll
+C:\Users\Beata\documents\visual studio 2010\Projects\SamochodRaspberryPi\SamochodRaspberryPi\obj\x86\Debug\SamochodRaspberryPi.Interfejs.Sterowanie.resources
+C:\Users\Beata\documents\visual studio 2010\Projects\SamochodRaspberryPi\SamochodRaspberryPi\obj\x86\Debug\SamochodRaspberryPi.Interfejs.PrzegladBazy.resources
+C:\Users\Beata\documents\visual studio 2010\Projects\SamochodRaspberryPi\SamochodRaspberryPi\obj\x86\Debug\SamochodRaspberryPi.Interfejs.Menu.resources

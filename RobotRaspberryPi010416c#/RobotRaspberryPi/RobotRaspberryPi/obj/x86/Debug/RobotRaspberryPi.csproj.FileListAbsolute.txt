@@ -1,0 +1,26 @@
+C:\Users\Beata\documents\visual studio 2010\Projects\SamochodRaspberryPi\SamochodRaspberryPi\bin\Debug\SamochodRaspberryPi.exe
+C:\Users\Beata\documents\visual studio 2010\Projects\SamochodRaspberryPi\SamochodRaspberryPi\bin\Debug\SamochodRaspberryPi.pdb
+C:\Users\Beata\documents\visual studio 2010\Projects\SamochodRaspberryPi\SamochodRaspberryPi\bin\Debug\MySql.Data.dll
+C:\Users\Beata\documents\visual studio 2010\Projects\SamochodRaspberryPi\SamochodRaspberryPi\obj\x86\Debug\RobotRaspberryPi.csprojResolveAssemblyReference.cache
+C:\Users\Beata\documents\visual studio 2010\Projects\SamochodRaspberryPi\SamochodRaspberryPi\obj\x86\Debug\RobotRaspberryPi.Interfejs.Czujniki.resources
+C:\Users\Beata\documents\visual studio 2010\Projects\SamochodRaspberryPi\SamochodRaspberryPi\obj\x86\Debug\RobotRaspberryPi.Interfejs.Sterowanie.resources
+C:\Users\Beata\documents\visual studio 2010\Projects\SamochodRaspberryPi\SamochodRaspberryPi\obj\x86\Debug\RobotRaspberryPi.Interfejs.Menu.resources
+C:\Users\Beata\documents\visual studio 2010\Projects\SamochodRaspberryPi\SamochodRaspberryPi\obj\x86\Debug\RobotRaspberryPi.Interfejs.PrzegladBazy.resources
+C:\Users\Beata\documents\visual studio 2010\Projects\SamochodRaspberryPi\SamochodRaspberryPi\obj\x86\Debug\RobotRaspberryPi.Properties.Resources.resources
+C:\Users\Beata\documents\visual studio 2010\Projects\SamochodRaspberryPi\SamochodRaspberryPi\obj\x86\Debug\RobotRaspberryPi.csproj.GenerateResource.Cache
+C:\Users\Beata\documents\visual studio 2010\Projects\SamochodRaspberryPi\SamochodRaspberryPi\obj\x86\Debug\SamochodRaspberryPi.exe
+C:\Users\Beata\documents\visual studio 2010\Projects\SamochodRaspberryPi\SamochodRaspberryPi\obj\x86\Debug\SamochodRaspberryPi.pdb
+C:\Users\Beata\Documents\Visual Studio 2010\Projects\RobotRaspberryPi\RobotRaspberryPi\obj\x86\Debug\SamochodRaspberryPi.exe
+C:\Users\Beata\Documents\Visual Studio 2010\Projects\RobotRaspberryPi\RobotRaspberryPi\obj\x86\Debug\SamochodRaspberryPi.pdb
+C:\Users\Beata\Documents\Visual Studio 2010\Projects\RobotRaspberryPi\RobotRaspberryPi\bin\Debug\SamochodRaspberryPi.exe
+C:\Users\Beata\Documents\Visual Studio 2010\Projects\RobotRaspberryPi\RobotRaspberryPi\bin\Debug\SamochodRaspberryPi.pdb
+C:\Users\Beata\Documents\Visual Studio 2010\Projects\RobotRaspberryPi\RobotRaspberryPi\bin\Debug\MySql.Data.dll
+C:\Users\Beata\Documents\Visual Studio 2010\Projects\RobotRaspberryPi\RobotRaspberryPi\obj\x86\Debug\RobotRaspberryPi.csprojResolveAssemblyReference.cache
+C:\Users\Beata\Documents\Visual Studio 2010\Projects\RobotRaspberryPi\RobotRaspberryPi\obj\x86\Debug\RobotRaspberryPi.Interfejs.Czujniki.resources
+C:\Users\Beata\Documents\Visual Studio 2010\Projects\RobotRaspberryPi\RobotRaspberryPi\obj\x86\Debug\RobotRaspberryPi.Interfejs.Sterowanie.resources
+C:\Users\Beata\Documents\Visual Studio 2010\Projects\RobotRaspberryPi\RobotRaspberryPi\obj\x86\Debug\RobotRaspberryPi.Interfejs.Menu.resources
+C:\Users\Beata\Documents\Visual Studio 2010\Projects\RobotRaspberryPi\RobotRaspberryPi\obj\x86\Debug\RobotRaspberryPi.Interfejs.PrzegladBazy.resources
+C:\Users\Beata\Documents\Visual Studio 2010\Projects\RobotRaspberryPi\RobotRaspberryPi\obj\x86\Debug\RobotRaspberryPi.Properties.Resources.resources
+C:\Users\Beata\Documents\Visual Studio 2010\Projects\RobotRaspberryPi\RobotRaspberryPi\obj\x86\Debug\RobotRaspberryPi.csproj.GenerateResource.Cache
+C:\Users\Beata\OneDrive\Praca inż\010416BeataKuzleckaRaspberryPi\RobotRaspberryPi010416c#\RobotRaspberryPi\RobotRaspberryPi\obj\x86\Debug\SamochodRaspberryPi.exe
+C:\Users\Beata\OneDrive\Praca inż\010416BeataKuzleckaRaspberryPi\RobotRaspberryPi010416c#\RobotRaspberryPi\RobotRaspberryPi\obj\x86\Debug\SamochodRaspberryPi.pdb
